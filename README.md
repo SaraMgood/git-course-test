@@ -1,2 +1,2 @@
-# git-course-test
+# git-exercici
 Aquest és un projecte de prova amb GIT
