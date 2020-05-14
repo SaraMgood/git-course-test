@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a18028
 Modificació fitxer dins la branch master
+=======
+modificació dins branch1
+>>>>>>> .merge_file_a18528
